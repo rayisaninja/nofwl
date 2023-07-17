@@ -1,7 +1,7 @@
 name: bing
 verison: 0.1.0
-author: lencx
+author: ray
 description: NoFWL Bing
-link: https://github.com/lencx/nofwl/tree/main/plugins/bing
+link: https://github.com/rayisaninja/nofwl/tree/main/plugins/bing
 url:
   - https://edgeservices.bing.com
