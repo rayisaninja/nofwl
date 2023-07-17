@@ -1,8 +1,8 @@
 name: chatgpt
 verison: 0.1.0
-author: lencx
+author: rayisaninja
 description: NoFWL ChatGPT
-link: https://github.com/lencx/nofwl/tree/main/plugins/chatgpt
+link: https://github.com/rayisaninja/nofwl/tree/main/plugins/chatgpt
 url:
   - https://ai.com
   - https://chat.openai.com
